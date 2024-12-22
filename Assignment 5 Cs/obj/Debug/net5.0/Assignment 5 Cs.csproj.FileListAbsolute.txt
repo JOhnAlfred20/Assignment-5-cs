@@ -1,0 +1,15 @@
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\obj\Debug\net5.0\Assignment 5 Cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\obj\Debug\net5.0\Assignment 5 Cs.AssemblyInfoInputs.cache
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\obj\Debug\net5.0\Assignment 5 Cs.AssemblyInfo.cs
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\obj\Debug\net5.0\Assignment 5 Cs.csproj.CoreCompileInputs.cache
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\bin\Debug\net5.0\Assignment 5 Cs.exe
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\bin\Debug\net5.0\Assignment 5 Cs.deps.json
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\bin\Debug\net5.0\Assignment 5 Cs.runtimeconfig.json
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\bin\Debug\net5.0\Assignment 5 Cs.runtimeconfig.dev.json
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\bin\Debug\net5.0\Assignment 5 Cs.dll
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\bin\Debug\net5.0\Assignment 5 Cs.pdb
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\obj\Debug\net5.0\Assignment 5 Cs.dll
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\obj\Debug\net5.0\refint\Assignment 5 Cs.dll
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\obj\Debug\net5.0\Assignment 5 Cs.pdb
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\obj\Debug\net5.0\Assignment 5 Cs.genruntimeconfig.cache
+D:\ROute Assingnments\BackEnd\C#\Assignment 5 Cs\Assignment 5 Cs\obj\Debug\net5.0\ref\Assignment 5 Cs.dll
